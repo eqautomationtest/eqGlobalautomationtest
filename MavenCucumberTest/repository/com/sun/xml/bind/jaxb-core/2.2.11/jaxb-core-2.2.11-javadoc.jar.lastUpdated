@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 15:20:05 BST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-core\:jar\:javadoc\:2.2.11 from/to HTTP (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/com/sun/xml/bind/jaxb-core/2.2.11/jaxb-core-2.2.11-javadoc.jar. Error code 407, Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529676106137
+@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529677205735
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-core\:jar\:javadoc\:2.2.11 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: connect

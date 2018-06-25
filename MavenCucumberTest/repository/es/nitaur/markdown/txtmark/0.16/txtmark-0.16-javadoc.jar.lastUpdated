@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 16:53:50 BST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact es.nitaur.markdown\:txtmark\:jar\:javadoc\:0.16 from/to HTTP (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/es/nitaur/markdown/txtmark/0.16/txtmark-0.16-javadoc.jar. Error code 407, Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )
+9f604c24016c92c74cfe184cc6f5840745430184@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529682830662

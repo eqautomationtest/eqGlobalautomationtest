@@ -1,0 +1,6 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 15:26:11 BST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:jar\:3.3 from/to HTTP (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-site-plugin/3.3/maven-site-plugin-3.3.jar. Error code 407, Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529670619650
+@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529677571861
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-site-plugin\:jar\:3.3 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: connect

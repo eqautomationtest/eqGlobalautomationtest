@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: CucumberTest.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 14.259 sec <<< FAILURE!
+Login into EQGlobal(EQ Global Login Test)  Time elapsed: 2.94 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[MarTrust]> but was:<[Equiniti International Payments]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at Cucumber.EqGlobal.StepDefinition.LoginStepDefinition.home_Page_Displayed(LoginStepDefinition.java:73)
+	at ?.Home Page Displayed(src/test/resources/LoginFeature.feature:29)
+
+Login into EQGlobal(EQ Global Login Test)  Time elapsed: 2.903 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[Santander Corporate & Commercial]> but was:<[Equiniti International Payments]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at Cucumber.EqGlobal.StepDefinition.LoginStepDefinition.home_Page_Displayed(LoginStepDefinition.java:73)
+	at ?.Home Page Displayed(src/test/resources/LoginFeature.feature:29)
+

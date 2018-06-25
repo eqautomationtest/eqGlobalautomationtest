@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 15:26:11 BST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-compiler-plugin\:jar\:3.3 from/to HTTP (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-compiler-plugin/3.3/maven-compiler-plugin-3.3.jar. Error code 407, Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )
+@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529677571719

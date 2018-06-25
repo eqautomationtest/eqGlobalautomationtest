@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 16:51:51 BST 2018
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529676233453
+5c0f55e042b9f9c40580df1a0b95afa6da008a92@proxy.uk1.group.internal\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529675696870
+@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529682309800
+@proxy.uk1.group.internal\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529675309738
+http\://repo.maven.apache.org/maven2/.lastUpdated=1529682711480
+bcced35241760095b50274c9b296a812035b50c1@proxy.uk1.group.internal\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529675591166
+bcced35241760095b50274c9b296a812035b50c1@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529679251879
+9f604c24016c92c74cfe184cc6f5840745430184@proxy.uk1.group.internal\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529676541170
+@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529677150889
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-failsafe-plugin\:pom\:2.18 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to authenticate with proxy

@@ -1,0 +1,21 @@
+<settings>
+   <proxies>
+        <proxy>
+            <active>true</active>
+            <protocol>http</protocol>
+            <host>proxy.uk1.group.internal</host>
+            <username>munusam</username>
+            <password> Password1234$$</password>
+            <port>80</port>                     
+            <nonProxyhosts>localHost|127.0.0.1</nonProxyhosts>        
+        </proxy>
+    </proxies>
+    <mirrors>
+		<mirror>
+			<id>HTTP</id>
+			<name>HTTP Central</name>
+			<url>http://repo.maven.apache.org/maven2</url>
+			<mirrorOf>central</mirrorOf>
+		</mirror>
+	</mirrors>
+</settings>

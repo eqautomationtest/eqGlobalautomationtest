@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 16:52:08 BST 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1529682728772
+5c0f55e042b9f9c40580df1a0b95afa6da008a92@proxy.uk1.group.internal\:80>@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529675715832
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact net.serenity-bdd.maven.plugins\:serenity-maven-plugin\:jar\:1.5.8 from/to central (https\://repo.maven.apache.org/maven2)\: Failed to authenticate with proxy

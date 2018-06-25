@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 16:53:43 BST 2018
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.openpnp\:opencv\:jar\:sources\:3.2.0-1 from/to HTTP (http\://repo.maven.apache.org/maven2)\: Access denied to http\://repo.maven.apache.org/maven2/org/openpnp/opencv/3.2.0-1/opencv-3.2.0-1-sources.jar. Error code 407, Proxy Authentication Required ( Forefront TMG requires authorization to fulfill the request. Access to the Web Proxy filter is denied.  )
+9f604c24016c92c74cfe184cc6f5840745430184@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529682823009

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Jun 22 16:52:08 BST 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1529682728577
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1529670613498
+@proxy.uk1.group.internal\:80>@default-HTTP-http\://repo.maven.apache.org/maven2/.lastUpdated=1529677571769
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-jar-plugin\:jar\:2.4 from/to central (https\://repo.maven.apache.org/maven2)\: Connection refused\: connect
