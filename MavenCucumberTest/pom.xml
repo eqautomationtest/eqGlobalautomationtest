@@ -4,7 +4,7 @@
   <artifactId>MavenCucumberTest</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-	<name>cucumber-restassured</name>
+	<name>EQMavenCucumberTest</name>
 	<url>http://maven.apache.org</url>
 
 
@@ -68,6 +68,11 @@
 			<artifactId>jaxb-impl</artifactId>
 			<version>2.2.11</version>
 		</dependency>
+		<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-resources-plugin</artifactId>
+    <version>3.1.0</version>
+</dependency>
 	</dependencies>
 	<build>
 	<plugins>
