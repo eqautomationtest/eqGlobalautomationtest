@@ -27,7 +27,7 @@
       <layout>default</layout>
       <url>https://repo.maven.apache.org/maven2</url>
       <snapshots>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
       </snapshots>
     </repository>
   </repositories>
@@ -39,7 +39,7 @@
       <url>https://repo.maven.apache.org/maven2</url>
       <layout>default</layout>
       <snapshots>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
       </snapshots>
       <releases>
         <updatePolicy>always</updatePolicy>
