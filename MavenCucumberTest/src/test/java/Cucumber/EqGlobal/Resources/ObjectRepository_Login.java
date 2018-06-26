@@ -2,7 +2,6 @@ package Cucumber.EqGlobal.Resources;
 
 public class ObjectRepository_Login 
 {
-
 	public static String oLoginUsernameInputBoxId="ctl00_ctl00_ContentPlaceHolder1_MainContent_Login1_UserName";
 	public static String oLoginPasswordInputBoxId="ctl00_ctl00_ContentPlaceHolder1_MainContent_Login1_Password";
 	public static String oLoginInputButtonId="ctl00_ctl00_ContentPlaceHolder1_MainContent_Login1_LoginButton";
