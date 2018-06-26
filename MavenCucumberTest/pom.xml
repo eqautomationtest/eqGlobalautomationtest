@@ -42,7 +42,7 @@
         <enabled>false</enabled>
       </snapshots>
       <releases>
-        <updatePolicy>never</updatePolicy>
+        <updatePolicy>always</updatePolicy>
       </releases>
     </pluginRepository>
   </pluginRepositories>
