@@ -18,4 +18,26 @@
 			<mirrorOf>central</mirrorOf>
 		</mirror>
 	</mirrors>
+	<profiles>
+    <profile>
+      <repositories>
+        <repository>
+          <id>0.0.1-SNAPSHOT</id>
+          <name>0.0.1-SNAPSHOT</name>
+          <releases>
+            <enabled>false</enabled>
+            <updatePolicy>always</updatePolicy>
+            <checksumPolicy>warn</checksumPolicy>
+          </releases>
+          <snapshots>
+            <enabled>true</enabled>
+            <updatePolicy>never</updatePolicy>
+            <checksumPolicy>fail</checksumPolicy>
+          </snapshots>
+          <url>https://repo.maven.apache.org/maven2</url>
+          <layout>default</layout>
+        </repository>
+      </repositories>
+    </profile>
+  </profiles>
 </settings>
