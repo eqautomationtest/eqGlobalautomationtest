@@ -8,14 +8,7 @@
             <password> Password1234$$</password>
             <port>80</port>                     
             <nonProxyhosts>localHost|127.0.0.1</nonProxyhosts>        
-        </proxy>
-         <proxy>
-            <active>true</active>
-            <protocol>https</protocol>
-            <host>proxy.uk1.group.internal</host>
-            <port>80</port>                     
-            <nonProxyhosts>localHost|127.0.0.1</nonProxyhosts>        
-        </proxy>
+        </proxy>     
     </proxies>
     <mirrors>
 		<mirror>
