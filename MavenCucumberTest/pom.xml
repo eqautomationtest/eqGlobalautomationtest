@@ -18,35 +18,6 @@
 		<java.version>1.8</java.version>
 		<serenity-cucumber>1.9.8</serenity-cucumber>
 	</properties>
-
-
-<repositories>
-    <repository>
-      <id>central</id>
-      <name>Maven Repository Switchboard</name>
-      <layout>default</layout>
-      <url>https://repo.maven.apache.org/maven2</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
- 
-  <pluginRepositories>
-    <pluginRepository>
-      <id>central</id>
-      <name>Maven Plugin Repository</name>
-      <url>https://repo.maven.apache.org/maven2</url>
-      <layout>default</layout>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-      <releases>
-        <updatePolicy>always</updatePolicy>
-      </releases>
-    </pluginRepository>
-  </pluginRepositories>
-
 	<dependencies>
 <dependency>
     <groupId>org.apache.maven.plugins</groupId>
