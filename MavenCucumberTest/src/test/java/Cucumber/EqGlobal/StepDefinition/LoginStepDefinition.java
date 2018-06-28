@@ -12,6 +12,7 @@ import org.junit.Assert;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import Cucumber.EqGlobal.Resources.ObjectRepository_Login;
@@ -19,12 +20,17 @@ public class LoginStepDefinition {
 
 	String url;
 	WebDriver driver;
+	WebDriver driver2;
 	@Before
 	public void SetUp()
 	{
 		System.setProperty("webdriver.chrome.driver","C:\\chromedriver_win32\\chromedriver.exe");
 		driver=new ChromeDriver();
+		//System.setProperty("webdriver.ie.driver","C:\\IEDriverServer_x64_3.9.0.exe\\IEDriverServer.exe");
+		//driver=new InternetExplorerDriver();
 		//WebDriverWait wait=new WebDriverWait(driver,20);
+		//DesiredCapabilities capabilities = DesiredCapabilities.internetExplorer();
+		//capabilities.setCapability(InternetExplorerDriver.INTRODUCE_FLAKINESS_BY_IGNORING_SECURITY_DOMAINS,true);
 				
 	}
 	@Given("^The site \"([^\"]*)\"$")
@@ -39,6 +45,7 @@ public void navigate_to_Login_page() throws Throwable {
     //throw new PendingException();
 	driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 	driver.get(url);
+	
 }
 
 @When("^I Enter \"([^\"]*)\" and \"([^\"]*)\"$")
