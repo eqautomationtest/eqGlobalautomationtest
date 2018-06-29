@@ -20,7 +20,6 @@ public class LoginStepDefinition {
 
 	String url;
 	WebDriver driver;
-	WebDriver driver2;
 	@Before
 	public void SetUp()
 	{
@@ -99,9 +98,7 @@ public void i_Enter_and(String arg1, String arg2) throws Throwable {
 	public void test() throws Throwable {
 	    // Write code here that turns the phrase above into concrete actions
 	    //throw new PendingException();
-		
-		
-		
+
 	}
 
 }
